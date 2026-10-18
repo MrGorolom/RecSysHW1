@@ -1,1 +1,1 @@
-"""TODO: implement baseline implicit ALS from scratch."""
+"""Implicit ALS для неявной обратной связи."""

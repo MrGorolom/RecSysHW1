@@ -1,4 +1,3 @@
-# Initial dependency list; pin versions after validating the environment.
 numpy
 scipy
 pandas

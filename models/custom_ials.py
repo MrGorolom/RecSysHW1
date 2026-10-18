@@ -1,1 +1,1 @@
-"""TODO: define a custom target and implement its iALS model."""
+"""Implicit ALS с собственным целевым сигналом."""

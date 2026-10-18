@@ -1,1 +1,1 @@
-"""Self-implemented recommendation models; implementations are pending."""
+"""Модели рекомендательной системы."""

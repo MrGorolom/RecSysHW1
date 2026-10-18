@@ -1,1 +1,1 @@
-"""TODO: implement EASE from scratch."""
+"""Линейная модель рекомендаций EASE."""

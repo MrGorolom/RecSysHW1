@@ -1,1 +1,1 @@
-"""TODO: implement item-based collaborative filtering from scratch."""
+"""Коллаборативная фильтрация на основе сходства товаров."""

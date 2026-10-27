@@ -45,6 +45,10 @@ htmlcov/
 /dist/
 
 # Local configuration and secrets
+/MODEL_NOTES.md
+/build_notebook.py
+/write_report.py
+/Домашнее задание 1.md
 .env
 .env.*
 !.env.example

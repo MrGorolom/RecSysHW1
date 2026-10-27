@@ -1,0 +1,37 @@
+{
+  "signature": "a02a237f1ea1fba1b00815bde33c3a4ceb9197b98ab112da5ab5f1cf2ad03900",
+  "params": {
+    "ItemKNN": {
+      "neighbors": 100,
+      "shrinkage": 10
+    },
+    "iALS": {
+      "factors": 64,
+      "reg": 10.0,
+      "alpha": 20,
+      "iterations": 12
+    },
+    "EASE": {
+      "reg": 100
+    },
+    "FM": {
+      "factors": 32,
+      "epochs": 10,
+      "lr": 0.003,
+      "metadata": true
+    },
+    "Custom iALS": {
+      "factors": 64,
+      "reg": 10.0,
+      "alpha": 20,
+      "iterations": 12,
+      "beta": 0.5
+    },
+    "FM IDs only": {
+      "factors": 32,
+      "epochs": 10,
+      "lr": 0.003,
+      "metadata": false
+    }
+  }
+}

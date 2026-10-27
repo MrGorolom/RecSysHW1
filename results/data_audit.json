@@ -1,0 +1,62 @@
+{
+  "raw_interactions": 231780,
+  "missing": {
+    "user_id": 0,
+    "item_id": 0,
+    "rating": 0,
+    "timestamp": 0
+  },
+  "invalid_or_missing_removed": 0,
+  "duplicate_pairs_removed": 0,
+  "clean_interactions": 231780,
+  "users": 24303,
+  "items": 10672,
+  "periods": {
+    "train": {
+      "raw_events": 185349,
+      "warm_events": 185349,
+      "cold_events_excluded": 0,
+      "relevant_warm_events": 138586,
+      "start": "1999-10-14T00:00:00+00:00",
+      "end": "2013-08-21T00:00:00+00:00"
+    },
+    "validation": {
+      "raw_events": 23133,
+      "warm_events": 10568,
+      "cold_events_excluded": 12565,
+      "relevant_warm_events": 8429,
+      "start": "2013-08-22T00:00:00+00:00",
+      "end": "2014-01-17T00:00:00+00:00",
+      "evaluated_users": 3007
+    },
+    "test": {
+      "raw_events": 23298,
+      "warm_events": 8596,
+      "cold_events_excluded": 14702,
+      "relevant_warm_events": 6626,
+      "start": "2014-01-18T00:00:00+00:00",
+      "end": "2014-07-22T00:00:00+00:00",
+      "evaluated_users": 2224
+    }
+  },
+  "train_users": 22209,
+  "train_items": 10093,
+  "eligible_history_users": 20522,
+  "split_boundaries": [
+    "2013-08-22T00:00:00+00:00",
+    "2014-01-18T00:00:00+00:00"
+  ],
+  "sparsity": 0.9991063442479476,
+  "metadata": {
+    "catalog_items": 10093,
+    "matched": 10093,
+    "with_title": 253,
+    "with_brand": 149,
+    "with_categories": 10013,
+    "distinct_categories": 196
+  },
+  "sha256": {
+    "reviews_Video_Games_5.json.gz": "db2a33eba13cc437077e2c1f98cccf656922bf28203585d561c48fb1048184ea",
+    "meta_Video_Games.json.gz": "09457ba57ad086160de4a632e3d9b160fba625239eee31828f39c2dd520da395"
+  }
+}
